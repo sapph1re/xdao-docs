@@ -1,0 +1,8 @@
+Creating Private Offer
+Private offer gives the opportunity for people to buy LP tokens for special price. This offers can see only the recipient. One offer can be used only once.
+After issuing LP tokens you will see "Private offers" on your DAO home page. Click "Create Private offer"
+If you already have 1 or more private offers then you should click on "Private Offers" and choose the button "Create Private Offer" at the top of the list.
+Fill the form and create Voting.
+After the voting being executed you will see the amount of private offers. Click to "Private offers". To manage it.
+Here you can see your offers. There can be more than one active private offers.
+Once your private offer is used, it will be deactivated.

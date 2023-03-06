@@ -1,0 +1,5 @@
+DAO Breakdown
+Data for QUORUM is taken from the blockchain.
+Data for AUM is taken from Covalent. If the blockchain does not support Covalent, then the request is sent to DeBank.
+Data for MEMBERS and TOKEN HOLDERS are taken from Covalent. If the blockchain does not support Covalent, then the request is sent directly to the blockchain, but then the information is displayed for only 2 hours after the creation of the Dao.
+Data for Assets is taken from Covalent. If the blockchain does not support Covalent, then the request is sent to DeBank.

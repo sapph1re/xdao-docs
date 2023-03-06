@@ -1,0 +1,20 @@
+Approve Token
+To make operations with tokens, you need to approve to interact with them. You can do this either on the site itself by connecting with the DAO wallet via WalletConnect, or by creating a voting.
+On the DAO home page select the "Create Voting" button.
+Select "Approve Token" from the drop-down list.
+You can get the address of the required token for the approve on coinmarketcap or coingecko.
+The Spender address for the well-known sites is listed below in the table.
+We recommend setting a larger Token Amount, for example, 1000000000000000.
+Spender Address - Network - Platform
+0xE592427A0AEce92De3Edee1F18E0157C05861564 - Ethereum - Uniswap Router
+0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45 - Polygon - Uniswap Router
+0x1111111254fb6c44bac0bed2854e76f90643097d - Ethereum - 1inch Router
+0x1111111254fb6c44bac0bed2854e76f90643097d - Polygon - 1inch Router
+0x1111111254fb6c44bac0bed2854e76f90643097d - BSC - 1inch Router
+0x10ed43c718714eb63d5aa57b78b54704e256024e - BSC - PancakeSwap Router
+0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F - Ethereum - SushiSwap Router
+0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506 - BSC - SushiSwap Router
+0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506 - Polygon - SushiSwap Router
+0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506 - Fantom - SushiSwap Router
+0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506 - HECO - SushiSwap Router
+0xa5E0829CaCEd8fFDD4De3c43696c57F7D7A678ff - Polygon - QuickSwap Route

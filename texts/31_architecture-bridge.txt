@@ -1,0 +1,11 @@
+Bridge
+Send funds from one blockchain to another in a few seconds. Currently bridge(cross-chain swap) is available on 4 blockchains: Ethereum, Polygon, BNB Chain, Avalanche using Symbiosis platform.
+Click on Bridge
+Select whether you want to exchange assets from your personal account or from your DAO.
+In the "You Sell" (sender) box, select the asset you want to send to the other network and the amount. Notice the blockchain icon in the lower right corner. The same blockchain is selected here as in the XDAO app.
+In the "You Buy" (recipient) box, select the asset you intend to exchange and send the underlying asset for. When selecting an asset, pay attention to the chain in the lower right corner of the asset icon. A blockchain filter is available. A manual Recipient Address is available, in case you are going to send the asset to a different address.
+In the bottom right corner near the asset icon, you can see the blockchain that contains the asset.
+Stuck transactions
+If you have sent tokens via bridge and haven't received them, your transaction may be stuck. In this case, you will see a red icon that says "Stuck Transactions".
+Click on it. Click Change Network.
+Press Revert. The recipient's network will be charged with gas fees for this transaction. The return of assets will occur to the sender's network in the form of Stable Coins. The return can take up to 20 minutes.

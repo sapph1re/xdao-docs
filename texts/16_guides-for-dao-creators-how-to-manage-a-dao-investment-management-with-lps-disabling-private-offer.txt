@@ -1,0 +1,5 @@
+Disabling Private Offer
+As mentioned in the previous section, the private transaction is deactivated automatically after use. However, there are times when you need to turn it off manually.
+To disable private offer go to "Create voting" in DAO home page.
+Fill the form, create and sign it.
+After voting private offer will be disabled.

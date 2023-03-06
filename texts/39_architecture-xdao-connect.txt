@@ -1,0 +1,14 @@
+XDAO Connect
+Wallet Connect is our solution to connect your DAO with any DeFi in seconds!
+How to connect
+Start by choosing "Connect" in the left-side menu bar. There you can see a list of popular DeFi projects that you can connect.
+The list does not represent all possible DeFi projects, that DAO can connect. You can still use any dapp that supports WalletConnect, not listed on our site.
+After redirection to the dapp, that you would like to connect, choose "Connect wallet" and search for the "WalletConnect" button. Click "Copy to clipboard"
+Then return to XDAO.APP and paste the link to the dedicated field. Choose DAO to connect.
+When you return to the dapp you can check that the address of the connected wallet matches your DAO address.
+With XDAO Connect you can:
+Trade on DEX (make sure you set transaction deadline. After the deadline, the transaction cannot be activated through the DAO);
+Buy and sell NFT on the marketplace. (It only cannot create a new NFT because NFT creation requires personal sign which DAO has not).
+The only limitation with interaction is that a DAO, being a smart contract on its nature, can not sign a message. If you see in the calling method "personal_sign" (see the screenshot below) there will be no way to sign it. This is rather an exception, and we hope that soon the DeFi world will realize how important it is for the DAO to have access to the projects.
+For the time being, we recommend to find another DeFi that is not asking for personal sign, fortunately, there are many of them. personal_sign can not be called from the DAO
+The process of connecting via DAO Connect.

@@ -1,0 +1,28 @@
+Create a DAO
+DAO creation will take only 5 minutes.
+Create your DAO in 3 steps
+XDAO journey starts from the Home page, where you can see your DAOs and other general Info.
+To create a DAO, click "Create a DAO" in the submenu in the left bar. You can also do it in your Home page.
+Make sure you're connected to the right blockchain. And also make sure your personal wallet, for example Metamask, is connected to the same network.
+"Create a DAO" section is pretty simple. Name your DAO and give it ticker symbol (which is actually a Governance Token GT), add partners' addresses, set up a quorum and give your teammates the necessary amount of GT.
+We recommend to mint 1, 5 or 10 GT tokens to each teammate. The shares are simply easier to count.
+This percentage shows the person's voice weight in the DAO.
+Governance Tokens (or GTs) are minted right at the moment of a DAO creation and have the same address as the DAO. Governance tokens represent the voting power in this DAO.
+Do NOT mint GT tokens to the smart contract address, including multisig and other DAO addresses. As a smart contract, the DAO won't be able to sign proposals during voting period. Consequently, GT only needs to be mined to your member's personal wallet.
+Also be careful when mining GTs and setting up the quorum. If you set up the quorum threshold too high, it may never be reached and you will have to create a new DAO..
+How to choose the right quorum?
+A quorum is the minimum number of members in a DAO necessary to conduct the business of that group. According to
+Robert's Rules of Order, the "requirement for a quorum is protection against totally unrepresentative action in the name of the body by an unduly small number of persons." In contrast, a plenumis a meeting of the full (or rarely nearly full) body.
+Quorum voting requires a certain threshold of voters in order for a proposal to pass (for example: 60% quorum, which means 60% of voting power needs to vote). Once this threshold has been met, whichever decision has more votes wins. Without reaching the quorum threshold, proposals fail.
+Imagine, you have a group of 3 DAO members. Each of them holds 10 GT tokens and votes are distributed accordingly 33.3% of each member.
+If you decided that the quorum can be reached if the two members voted, then the quorum threshold should be between 34% and 66%.
+When you are ready to submit your DAO click "Create a DAO".
+Note, to prevent a DAO from fraud, GT tokens cannot be sent to any person without voting.
+Add funds to DAO balance
+Assets to the DAO can be added in 2 ways:
+1. By sending funds from a personal wallet directly to the DAO;
+2. Through the purchase of LP tokens.
+The second option is more correct, since only the owners of LP tokens have a share in the DAO and can withdraw their funds from it.
+If you send funds directly to the DAO without purchasing LP tokens, you will not be able to claim your share from the DAO even though you have GT tokens.
+Interaction with GT and LP after DAO creation
+To see the portfolio of any DAO, use the portfolio tracker from the list provided.

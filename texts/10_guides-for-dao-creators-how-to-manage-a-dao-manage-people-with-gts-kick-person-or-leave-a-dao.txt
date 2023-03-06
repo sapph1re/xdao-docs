@@ -1,0 +1,4 @@
+Kick person or leave a DAO
+Any member can leave a DAO by voting. Any member can also create a voting to kick any DAO member.
+For doing this, GT burning should be enabled. If this requirement is met you can go to DAO member list, click on the pencil in front of the DAO member address and choose "Burn".
+You can either burn GTs partly (in order to shorten the voting power of a particular person or your own) or the whole amount which actually means kicking out the person from the DAO.

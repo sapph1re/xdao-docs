@@ -1,0 +1,35 @@
+How to buy $XDAO token?
+The only correct $XDAO token address: 0x71eebA415A523F5C952Cc2f06361D5443545Ad28
+1) Installing the MetaMask wallet
+MetaMask can be installed on your computer, as a browser extensionfor such as Chrome, Opera, or Yandex, or on a mobile device as an Android or iPhone app.
+2) Account opening (registration) in MetaMask
+After you have installed your MetaMask, you need to open an account. The principle of opening an account on your computer or mobile device is the same.
+On the home screen, click the "Get started" button.
+If you did not have MetaMask before, click the "Create a new wallet" button.
+Agree with the MetaMask rules.
+Think of a password for MetaMask. This password will only be used when logging in to the mobile app or browser extension.
+The next important step is to save the seed phrase (recovery phrase). The seed phrase is the most important element in the MetaMask wallet. You must never show it to anyone. If someone else has the seed phrase, he will have access to all of your money in the wallet.
+Press "View" and write down your seed phrase. It consists of 12 suggested words.
+Enter in the suggested window your seed phrase. This will let MetaMask know that you wrote it down and saved it.
+Congratulations! You have successfully opened an account with MetaMask.
+Your public wallet address is listed on the MetaMask home page.
+3) Registration on the exchange
+In order to conduct any transactions from your MetaMask wallet, you need to have a coin in your account. A coin is a cryptocurrency that is needed to pay for gas, i.e. a blockchain commission for conducting any transactions. On the Ethereum blockchain, the coin is ETH. The easiest way is to buy ETH on exchanges such as Binance, Huobi, Gate, etc.
+The recommended amount to purchase ETH is at least $50. After you purchase ETH, it must be withdrawn to your MetaMask. Choose ETH withdrawal, Ethereum network (ERC20), and enter your public account address, which is listed on the MetaMask homepage.
+4) Buying $XDAO tokens
+So, to buy the $XDAO token you must have MetaMask, which must have ETH to pay for gas, i.e. blockchain commissions and USDC - those funds with which you will buy the $XDAO token.
+The $XDAO token can only be purchased in the Ethereum network! That means you must have all of your funds in the Ethereum network.
+The only correct $XDAO token address: 0x71eebA415A523F5C952Cc2f06361D5443545Ad28
+You can check this address on the official XDAO website or CoinMarketCap.
+All other smart contracts that will be sold under the guise of $XDAO tokens are scam tokens, and you will lose your money buying them. That's why it's important to buy $XDAO token only with the official smart contract.
+The official date and time to start trading the $XDAO token are 01:00 UTC on October 20, 2022. After the start of trading, copy the link below.
+https://app.uniswap.org/#/swap?inputCurrency=0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48&outputCurrency=0x71eebA415A523F5C952Cc2f06361D5443545Ad28&slippage=3000
+This link will take you straight to the purchase of $XDAO tokens with the official smart contract.
+Paste the above-copied link into your browser where you have MetaMask Wallet installed. The first thing you'll see is that Uniswap warns you that you're about to purchase an unknown token.
+You can follow the suggested link to etherscan and make sure it is an official $XDAO token smart contract.
+Once you have verified that this is an official $XDAO token, click the "I understand" button.
+Click the "Connect Wallet" button.
+Select MetaMask and connect with your wallet.
+Enter the amount you want to buy $XDAO tokens for and click the "Allow the Uniswap Protocol to use your USDC" button. Confirm the transaction (you will be charged with some ETH).
+Click the "Swap" button.
+Congratulations , you have successfully purchased $XDAO tokens.

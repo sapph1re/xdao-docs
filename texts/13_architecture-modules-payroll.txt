@@ -1,0 +1,15 @@
+Payroll
+Pay salaries to employees or other regular payments.
+1) Connect your DAO to the Payroll module. It does not require any additional installation.
+2) You must fill in the following parameters:
+Recipient - address of the employee who receives payments. The address can be a software, cold, exchange wallet, as well as a DAO address;
+Start Payroll Date - payroll start date. The date of payment can be any, including the past, for example, if the employee has successfully passed the probationary period and after 30 days will receive a salary;
+Uncheck the Perpetual Payroll item if the payout you receive must be specified for a certain period, and specify the payout end date in the Payroll Active Until item;
+Currency - address of the smart contract of the token, in which the payment is made;
+Amount - the final 30-day payment. If the contract expires in less than 30 days, you still need to indicate the payment for 30 days in the "Amount" column. Divide the salary by the number of days to find out the amount of daily payments, and then round the salary up to 30 days. Payouts will stop according to the date specified in the Payroll Active Until.
+3) Approve the token for payroll.
+4) Create a Create Payroll vote to start payroll.
+5) The payout to the employee has been successfully set up.
+6) If an employee's salary changes, then before the change it is necessary to make a Claim of unaccrued funds.
+The payroll algorithm is the number of paid funds per second * the number of seconds since the last branding. Therefore, you can receive wages at any time an unlimited number of times.
+Any user can make Claim. This is especially useful if the recipient does not have money for gas or the recipients have an exchange wallet. Then a DAO member or any other wallet will be able to make a Claim. The funds will be sent to the Payroll recipient.

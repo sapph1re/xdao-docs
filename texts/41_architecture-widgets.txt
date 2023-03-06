@@ -1,0 +1,6 @@
+Widgets
+Widgets are needed in order to share specific information with your investors or to embed selected information on your website. To do this, you need to get a link to the widget.
+Click on "Options".
+Select "Widgets".
+Click on "Go To Widget" to open the widget you need.
+Now, you only see the information that the widget displays. To integrate the widget into the site, you need a link to the widget.

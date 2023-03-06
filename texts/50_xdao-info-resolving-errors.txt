@@ -1,0 +1,5 @@
+Resolving Errors
+Error 'Too big delay between timestamps'.
+You have 30 seconds to sign the voting. An error may occur:
+1) If you did not have time to sign the voting. Create a new voting and sign in 30 seconds. Also make sure you don't have a MetaMask window open.
+2) If the time on your device is not synchronized with the network. Check the time settings on the device and the error will be resolved.

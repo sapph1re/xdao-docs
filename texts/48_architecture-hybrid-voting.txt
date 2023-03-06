@@ -1,0 +1,9 @@
+Hybrid Voting
+On-chain voting with off-chain implementation is designed to reach a consensus between speed and cost. This is what we call a hybrid voting mechanism.
+XDAO offers DAO to save significant amount of gas because of its hybrid nature.
+Off-chain DAO voting is represented on the scheme.
+On-chain voting means that every action, voting creation, voting by all members, execution, in DAO will be immediately included into the blockchain.
+Let's say we have a DAO with two members. An average, non-urgent transaction on Ethereum takes about 3 minutes. Thus, we need 3 minutes to create a vote + 3 minutes to record a signature of the first member + 3 minutes to record a signature of the second member + 3 minutes to record a final decision on the blockchain.
+In total, this vote will take 12-15 minutes. Now let's imagine that we have not 2 but 200 members. We would have to spend about 10 hours assuming that all participants would vote instantly. And if we wanted to speed up this vote by increasing the gas allowance, the vote would become very expensive.
+Off-chain method will speed up a vote to 3 minutes in total (0 minutes to create a vote, 0 minutes to record a signature of the first member, 0 minutes to record a signature of the second member and 3 minutes to record a final decision on-chain).
+If all voters vote promptly, it will only take 3 minutes if there are 200 members. The HYBRID voting mechanism for DAOs maintains a compromise between transparency and speedy and cheap voting.

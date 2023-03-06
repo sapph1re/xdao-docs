@@ -1,0 +1,10 @@
+GT (Governance Token)
+What is GT?
+Non-transferable ERC20 token. Address of GT equals to DAO address
+GT address = DAO Address. This is the same smart contract
+GT token role in DAO
+Immediately at the moment of DAO creation, you need to distribute Governance tokens among DAO participants.
+All wallets with GTs have access to the DAO and can create any proposals. The quorum determines how many tokens are needed to activate any vote in the DAO. If all issued GTs equals to 100%, then a 51% quorum will require 51% GTs, which are distributed among DAO members.
+Governance tokens cannot be sent to another wallet by direct transfer. If there is a need to send tokens, for example, DAO member decided to leave the project, that DAO member needs to initiate a vote to transfer GT from his wallet to another.
+Governance tokens cannot be sent to another wallet by direct transfer
+As you can see, the GT token makes it possible to be a member of the DAO.

@@ -1,0 +1,14 @@
+Move from V1 to V2
+Move your funds to XDAO V2 in a few clicks!
+1. Create a DAO on XDAO V2;
+2. Check your DeFi Pools. Withdraw all assets that your DAO currently farm or stake;
+3. Send DAO assets to the new DAO address (make sure your DAOs are created on the same blockchain) you can skip this step if you want all assets to be transferred back to your address;
+4. Burn your GTs.
+Check your TVL on the DAO.
+Check DeFi Pools and withdraw all assets from all DeFi services.
+Set Up GT burning to Enabled.
+Sign the voting.
+Activate it.
+You will see Exit section where you should type all assets from the DAO. It will be moved in proportion of your burned GTs.
+When you click "Exit", your DAO should have $0 balance and 0 assets.
+Now you can move all funds into the new DAO!

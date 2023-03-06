@@ -1,0 +1,14 @@
+Withdrawal from DAO
+An investor can burn his/her LP tokens and get all DAO assets proportional to the share.
+Go to the DAO homepage whose LP tokens you have decided to burn.
+Click the "Burn LP" button. It's at the very bottom of the DAO page.
+Click to "Approve".
+You will be asked to confirm the permission to burn LP.
+Wait for a while until the transaction is confirmed. After that you will see details about LP burning. If the information does not appear, and the transaction has passed, reload the page.
+In LP Amount input you should type the amount of your LPs you want to burn (fully or partially). See how to check your LP balance here.
+Below the input line a small tip about the percentage of the entered amount of LP tokens from the total amount of DAO funds is given.
+Next you can see a list of all LP tokens from the DAO treasury, except those staked on other smart contracts such as Yield Farming Pools.
+The only limitation here is that if a DAO is staking some assets in other DeFi protocols, it won't be withdrawn in case of exit. This also applies to NFTs. They can't be partially sent to the wallet in case of LP burning.
+After specifying the amount of LP and marking all (or only the ones you need) tokens, click on the "Burn LP" button.
+LP Burn price depends on how many tokens you select. The more tokens you tick, the more expensive the transaction will be. For example, on BSC it is about $0,05 $0,1 per token.
+As a result of the burning, the shares in the DAO will be redistributed among the rest of the participants, and the one who burned his share will receive all selected tokens.

@@ -1,0 +1,9 @@
+Dividends
+Pay dividends to your community or investors by distributing tokens from the DAO account.
+1) Connect your DAO to the Dividend Module. It doesn't require any additional installation.
+2) Choose a base token to identify dividend recipients based on the holding of a specific token. It can be GT, LP or project token.
+3) Choose a token for payout. It must be kept on DAO balance.
+4) Click on the "Request Based Token Holders List" button to create a list of holders of the token specified in the "Based Token Address" field. To calculate dividends, we propose to use our weighted average. However, the values in the PAYOUT AMOUNT field can be changed manually.
+5) Approve the token to pay dividends.
+6) Create a vote for the distribution of tokens. Wait for the votes to be signed by other DAO participants and activate the token distribution in one transaction in one click!
+The limit on the number of dividend recipients is set at 50 addresses. If you need to distribute dividends to more users, please contact us on telegramor discord.

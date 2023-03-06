@@ -1,0 +1,13 @@
+Creating Public Offer
+Public offer gives the opportunity for people to buy LP tokens publicly. Public offer solution resembles a known token launchpad where you offer DAO tokens at a discounted price.
+LP token is ERC20 standard token that has a special status in our DAO. It represents a financial interest in the organization. LP tokens are used to track individual contributions to the DAO treasury, as LP tokens held correspond proportionally to the share of liquidity in the DAO treasury.
+After issuing LP tokens you will see "Init Public offer" on your DAO home page.
+Pay attention: anyone can purchase unlimited amount of LP offered publicly.
+A DAO can create unlimited amount of public offers. But only one public offer can be active.
+Choose "Initialize Public Offer", fill the form and create a voting.
+After successful initialization you will see your offer in "Invest" section among other offers.
+Important! LP token price in a public offer is fixed and set once during the offer creation. We recommend to follow these simple steps to make your DAO's economic model safe:
+- Initialize Public Offer to raise capital;
+- Disable Public Offer once you are satisfied with the raised capital;
+- Let your raised capital work in DeFi;
+- Repeat this cycle.

@@ -1,0 +1,7 @@
+Manage People with GTs
+GT represents the member's voting power in the DAO.
+Governance Tokens in total represent quorum = 100%. GTs are strictly tied to the wallets of a DAO members. They have no price, only voting power. On the DAO dashboard, you can look DAO Holders with percentage distribution of votes.
+Here is a list of all actions DAO members can take with Governance tokens (GTs).
+Sending GTs
+Adding new members
+Kick person or leave a DAO

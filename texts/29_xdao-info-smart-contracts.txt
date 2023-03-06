@@ -1,0 +1,60 @@
+Smart Contracts
+XDAO main smart contracts and child DAOs are verified on all blockchain explorers. The following is a list of XDAO smart contract addresses and the blockchains where they are supported.
+
+Factory
+0x72cc6E4DE47f673062c41C67505188144a0a3D84
+Ethereum, BSC, Polygon, HECO, Avalanche, Fantom, Celo, OEC, Metis, Aurora, Optimism, Boba, Moonbeam, Moonriver, Astar, Shiden, Fuse, XDC, BitTorrent, Oasis, CoinEx, Klaytn, Milkomeda, Cube, Ontology, Telos and Godwoken Network.
+
+$XDAO Token
+0x71eebA415A523F5C952Cc2f06361D5443545Ad28
+Ethereum, BSC.
+
+Shop
+0xCA49EcF7e7bb9bBc9D1d295384663F6BA5c0e366
+Ethereum, BSC, Polygon, HECO, Avalanche, Fantom, Celo, OEC, Metis, Aurora, Optimism, Boba, Moonbeam, Moonriver, Astar, Shiden, Fuse, XDC, BitTorrent, Oasis, CoinEx, Klaytn, Milkomeda, Cube, Ontology, Telos and Godwoken Network.
+
+DAO Viewer
+0x3730Bdc5DDF4286A8778dcB19dA638db1Da981Ad
+Ethereum, BSC, Polygon, HECO, Avalanche, Fantom, Celo, OEC, Metis, Aurora, Optimism, Boba, Moonbeam, Moonriver, Astar, Shiden, Fuse, XDC, BitTorrent, Oasis, CoinEx, Klaytn, Milkomeda, Cube, Telos, Godwoken and Ontology Network.
+
+Advanced Viewer
+0xc71cfdb9BF2a1e168f91dc0A995eDE87dF2817bd
+BSC and Polygon.
+
+Smart contracts for XDAO modules.
+
+Private Exit
+0xB42DD79C056d4b511c07c29d4c35403b47bE29B9
+Ethereum, Polygon, Avalanche, Fantom, Moonbeam, Moonriver, Fuse, CoinEx, Klaytn, Milkomeda and XDC Network.
+0xc20146148cCFFCC035cEA2Fb8b17D74Fbc7DB38C
+BSC and Aurora.
+0xe642859C00BeD165bD6e36a60Dc94F9b5184D01f
+BitTorrent, Oasis, Telos, Godwoken and Cube.
+
+Dividends
+0x0f87Cb6929eb8010950d73094eC3BEcDeA8EAc67
+Ethereum, Polygon, Avalanche, Fantom, Moonbeam, Moonriver, Fuse, CoinEx, Klaytn, Milkomeda and XDC Network.
+0x41185246595EAdE95ec0acF9aDF6417fE7a94F39
+BSC and Aurora.
+0xB42DD79C056d4b511c07c29d4c35403b47bE29B9
+BitTorrent, Oasis, Telos, Godwoken and Cube.
+
+Launchpad
+0x9601A4378683b129A8efcE035e83222b819D639d
+Ethereum, Polygon, Fantom, Moonbeam, Moonriver, Fuse, CoinEx, Klaytn and Milkomeda.
+0xD2248bfeA32Cba6745553Aa2ff30C0D8286f6376
+BSC, Avalanche and Aurora.
+0x41185246595EAdE95ec0acF9aDF6417fE7a94F39
+BitTorrent, Oasis, Telos, Godwoken and Cube.
+0xbce99b80c3c0c3eba8b3d0f103fb557bf52a85bd
+XDC Network.
+
+Payroll
+0x7A8F181eB94594A6f47EEee5AA23ed6D8DC7563b
+Polygon, Moonbeam, Moonriver, Oasis, CoinEx and Milkomeda.
+0xC16f359d9b1114Fee86CF9Ca7F5cb0bF75d0fA5f
+BSC, Avalanche, Aurora and Fuse.
+0x31B407eE1960d6DaC4273Bf57c5FC1CCdF53469d
+BitTorrent, Telos, Godwoken and Cube.
+0x0bB30688b39e707194F6a007FCAE63839B21CcdA
+Fantom, Klaytn and XDC Network.

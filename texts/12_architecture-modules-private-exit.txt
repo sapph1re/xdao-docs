@@ -1,0 +1,9 @@
+Private Exit
+Make a private offer to burn LP tokens.
+1) Connect your DAO to the Private Exit module. Create a voting to activate the module's Private Exit interaction with the DAO.
+2) On the DAO main page, go to the Connections tab and open the Private Exit module.
+3) Specify the recipient of the private exit and the number of LP tokens to be burned.
+4) Choose the tokens on your DAO balance that will be sent to the recipient.
+5) An example of using this module.
+A group of investors agreed to freeze funds for half a year and invest them in various DeFi protocols. Early exit is possible, but only with a 50% fee on the deposit and no profit. One of the investors needed an early exit, then the DAO manager creates a Private Exit. Investor will see his offer for an early exit on the DAO page and will be able to burn his LP tokens.
+Parameters such as the number of burned LP tokens, the type of token sent and its quantity can be set in any form.

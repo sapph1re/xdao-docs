@@ -1,0 +1,16 @@
+Modules
+In XDAO, everything you need for better management of your DAO can be connected through DAO Modules. We decided to make DAO main smart contract too short and lightweight to achieve the cheapest gas price for deploying a DAO into the blockchain.
+We also understand that DAO can be used for a very specific case and it is impossible to include all DAOs functionality into the one contract. It is also not a good approach to make DAO contracts upgradable via proxy contracts. That is why we designed modular approach. It is not something completely new as you might think. In opposite, we used a modular technology but in a very wise and unique way.
+Here is a list of modules that we are going to implement first of all:
+Vesting Freeze LP tokens for the investor and issue them in equal parts with some frequency;
+Gas compensation Reimburse the team member for his gas expenses;
+Tx Combination Do many actions on behalf of the DAO in one transaction;
+Telegram Bot Get Telegram notifications every time some action happens in DAO;
+Timelock Module which acts as a timelocked controller. This gives time for members of the DAO to exit before a potentially dangerous maintenance operation is applied;
+GT Delegation Transfer your GT tokens to your partner for a while, you can't take part in the voting;
+Transaction automation Automate the execution of transactions when a certain condition is met;
+Dividends Let your investors to receive dividends from the DAO treasury according to their share.
+We welcome developers to create its own DAO-specific modules! If you have an idea or ready to implement new modules, please, reach us in socials or write directly to hello@xdao.app
+Using your programming skills, you can write and use your module in DAO. Please note that in order to make transactions on behalf of the DAO, you must grant permission to the module, as follows:
+1) Add the "executePermitted" function to the smart contract;
+2) Add your module to "Add Permitted" by creating a new voting.

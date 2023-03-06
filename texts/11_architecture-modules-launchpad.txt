@@ -1,0 +1,15 @@
+Launchpad
+To raise funds use Launchpad Module.
+Follow the steps below to initialize the sale:
+1) Connect your DAO to the Launchpad module. It does not require any additional installation.
+2) You need to create and select Launchpad conditions. Click Initialize Sale. Specify in Currency - which token will be accepted for payment, and in rate - the price of the LP token. If desired, you can use:
+Launchpad has time limit - time limit for fundraising. Launchpad will close at the specified date and time;
+Launchpad has limited sale amount - limited sale offer of the selected token. Launchpad will close when the specified amount is collected;
+Launchpad has whitelist - whitelist for specific users with a specific allocation. Whitelist can be filled in manually, or you can copy and paste from Excel.
+3) Type the number of LP tokens for Launchpad. Click on "Create LP Offer for Launchpad" and enter the number of tokens to be allocated on Launchpad, that is, the amount indicated in the Total Sale Amount.
+4) Click on "Fill Launchpad with LP" and then on the "Buy" button.
+Each investor can only deposit funds into Dao through Launchpad once. You can't reinvest. To do this, you will need to restart Launchpad or make a private offer.
+After the end of the Launchpad:
+1) Click on "Install Private Exit Module" if your Dao did not have the Private Exit module installed.
+2) If at the end of Launchpad there are unsold LP tokens, click on "Create Exit Offer" for Launchpad and then on "Burn LP" from Launchpad to burn these extra tokens and not dilute the share of participants.
+3) To close Launchpad, click on "Close Sale".

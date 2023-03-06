@@ -1,0 +1,28 @@
+What is XDAO?
+The new era of Decentralized Autonomous Organizations is here.
+XDAO is a unique tool for creating Decentralized Autonomous Organizations (DAOs) and jointly managing crypto assets in just a few clicks.
+What XDAO can offer you?
+Complex Multi-signature Wallet DAO, designed using modules.
+Full-cycle IDO, Launchpad, Accelerator platform for Organizations (investment promotion, crowdfunding, public and private sales).
+What problem does XDAO solve?
+In the DeFi market, there are no effective and convenient tools for companies and projects to invest in decentralized protocols as a joint entity.
+In XDAO a group of people can easily create a Decentralized Autonomous Organization, deposit crypto assets, manage them by voting, sell DAO shares and directly interact with DeFi protocols.
+In short, XDAO is a fully customizable tool that can be used for treasury management, multisig wallet and the platform for investment. DAOs on XDAO can be any-sized companies.
+Who can use XDAO?
+ - Venture Capital Funds;
+ - Asset Management Companies;
+ - Public funds and foundations;
+ - Startups;
+ - DeFi projects;
+ - Freelance groups;
+ - NFT owners;
+ - GameFi Guilds.
+What can be implemented with XDAO?
+ - Full or partial management of the DeFi project treasury;
+ - Salary treasury/marketing treasury for any blockchain organization;
+ - Grant program/bug bounty treasury;
+ - Investing in DeFi with total assets;
+ - Investing in NFT and GameFi;
+ - Charity;
+ - Joint participation in any Allocations, IDO, Launchpad;
+ - Family treasury management and many other use cases.

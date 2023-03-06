@@ -1,0 +1,10 @@
+Sending Token
+On the DAO home page select the "Create Voting" button.
+Select any action from the drop-down list. Example: "Send Token". Fill it out. A title will be generated automatically from the inputs, but you may edit it manually. We also recommend including your own explanation of the transaction's purpose in the description field.
+To create a vote, sign a message.
+Creating and signing a voting in XDAO is entirely free. Payment for a transaction occurs only at the time of activation.
+More on hybrid voting.
+After creating a voting, you also automatically vote "yes". Other participants will see a new voting with the "In Progress" status. Now they will be able to take part in the voting by signing it in the same way.
+After reaching the quorum, the status will be changed to "Ready to activate". Any of the participants can activate voting. It will be charged gas per transaction.
+Important! Make sure your wallet network is the same as the DAO network before making any transaction.
+The status will be changed to "Activated".

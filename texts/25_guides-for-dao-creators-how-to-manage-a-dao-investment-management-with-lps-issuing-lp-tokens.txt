@@ -1,0 +1,6 @@
+Issuing LP tokens
+To accept investments a DAO should issue Liquidity Provider (LP) tokens first of all.
+In the DAO home page you see "Offers" section.
+Click "Create LP" and you will be transferred to the creation of Voting page.
+With this voting, you can simply create a contract for your DAO LP token. LP token is a standard ERC-20 token, 18 decimal.
+After the successful execution a DAO will have its own LP.

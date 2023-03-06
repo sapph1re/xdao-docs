@@ -1,0 +1,7 @@
+Proposal
+Proposal is needed so that DAO managers can poll based on ownership of a particular token. It can be GT, LP or any other project token.
+Click Create Proposal.
+Provide a title and description.
+Specify the answer options and select the option whether it is possible to select multiple answers.
+Select a base token to poll based on ownership of a specific token. This can be GT, LP, or any other project token.
+Specify the start and end dates for voting.

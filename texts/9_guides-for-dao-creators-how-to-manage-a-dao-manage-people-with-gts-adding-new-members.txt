@@ -1,0 +1,7 @@
+Adding new members
+Adding a new member to a DAO is basically a simple voting.
+Before creating a voting make sure that GT Minting is enabled. Otherwise the transaction will be reverted.
+Creating a voting to add a new member can only be possible if GTs Minting is Enabled!
+Click to "Add Member" in your DAO page.
+To actually add a member type the target address and GT amount.
+After the creation and signing the specified number of GTs amount will be Airdroped to the new DAO member and will be shown in the DAO member list.

@@ -1,0 +1,10 @@
+Sending GTs
+Governance tokens or GTs cannot be sent to another wallet via transfer. It was made to avoid voting power manipulation.
+Whenever you will try to send Governance token with transfer or transferFrom you will get an error: "GT: transfer is prohibited."
+Instead of this, a member can simply move his/her GTs to someone.
+In voting section you can find a button called "Create voting" to create a voting for moving your GT tokens to someone.
+This option is especially useful if GT Minting on your DAO is disabled and frozen so members can't add another person to the DAO by minting new tokens.
+This option is also useful in case GT Burning is disabled and frozen so member can't just leave a DAO by burning tokens.
+The form below accept any sender address and checks if a DAO particular member from this DAO has sufficient GT amount.
+Otherwise it shows an error "Not enough GT on this wallet."
+This function will be executed only if the quorum will be reached.

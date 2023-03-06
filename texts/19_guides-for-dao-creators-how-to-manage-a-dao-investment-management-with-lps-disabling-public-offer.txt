@@ -1,0 +1,3 @@
+Disabling Public Offer
+To disable Public offer go to "Create Voting" on your DAO home page. Choose "Initialize Public offer" and uncheck "Active offer".
+After successful voting execution this offer will be disabled.

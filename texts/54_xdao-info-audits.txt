@@ -1,0 +1,5 @@
+Audits
+We care about our contracts security. That is why we are auditing all our smart contracts, including modules. We have NO upgradable proxy and we can not change our contracts' state.
+Our audits are available on GitHub:
+ - Pessimistic Audit: https://github.com/xdao-app/xdao-contracts/blob/master/audits/pessimistic/pessimistic.pdf
+ - Hacken Audit: https://github.com/xdao-app/xdao-contracts/blob/master/audits/hacken/hacken.pdf

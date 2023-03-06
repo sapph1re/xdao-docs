@@ -1,0 +1,5 @@
+Swap
+XDAO Swap allows you to exchange your personal assets and DAO assets. XDAO Swap is powered by 1inch and works on Ethereum, BNB, Polygon, Fantom, Optimism and Avalanche.
+Click Swap.
+Choose from which account you will exchange assets: from your personal account or from your DAO.
+Choose which assets you want to exchange and make a swap.

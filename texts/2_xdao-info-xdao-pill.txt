@@ -1,0 +1,18 @@
+XDAO Pill
+XDAO Pill allows you to create and sign voting without the XDAO interface on the local server in case the website does not work for some reason.
+https://github.com/modagavr/xdao-pill
+Step by step instructions for creating voting:
+1) Enter Transaction Data and click Sign Message.
+2) Copy and save the data you see on the screen:
+ - DAO address;
+ - Target address;
+ - Value;
+ - Nonce;
+ - Timestamp;
+ - Your signature.
+3) Send your DAO members TxHash that will appear when they enter the data. Ask the rest of the DAO members to send you their signatures back and save all signatures.
+4) Other DAO members also need to run XDAO PILL locally and select "sign voting" where they will upload TXHash and sign the "Sign message".
+5) When you have enough signatures, go to the scanner DAO page (etherscan, bscscan, etc.), select [Write], connect your wallet and enter all the data. Signatures are entered in the format of [sig1, sig2, sig3].
+Step by step instructions for signing the vote:
+1) Enter the TxHash you received from the DAO member who created the voting.
+2) Sign it, copy the value of the signature and send it back to the member who created the voting.

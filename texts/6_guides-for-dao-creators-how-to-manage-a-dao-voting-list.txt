@@ -1,0 +1,22 @@
+Voting List
+LP token is ERC20 standard token that has a special status in our DAO. It represents a financial interest in the organization. LP tokens are used to track individual contributions to the DAO treasury, as LP tokens held correspond proportionally to the share of liquidity in the DAO treasury.
+In order to make any operations on your DAO, you must create a voting. The following voting are currently available.
+Burn GT - Remove a member or decrease member's voting power.
+Move GT - Transfer voting power from one address to another.
+Disable and Freeze GT Minting - Permanently disables the ability to mint GT tokens. It will not be possible to enable the minting of GT tokens.
+Disable and Freeze GT Burning - Permanently disables the ability to burn GT tokens. It will not be possible to enable burning of GT tokens.
+Create LP Token - Allows to create an LP DAO token.
+Initialize Public Offer - Launch an IDO for your LP. Publicly sell it at a fixed price. Offer configuration can be changed later. Enable and Disable it, change rate and currency at any time.
+Create Private Offer - Privately sell your LP to a specific recipient at a certain price. This offer is single-use. Offer configuration can't be changed later, however you can disable it.
+Disable Private Offer - Use this voting in case your investor didn't purchase the Private Offer in time.
+Change LP Minting Status - If you want to sell your LP tokens using offers, you have to keep this status enabled. Can be changed later.
+Change LP Burning Status - Enabled LP Burning status allows investors to leave a DAO. Can be changed later.
+Freeze LP Minting Status - Permanently disables the ability to change the minting status of LP tokens. Locks LP Minting status in current position. Can't be changed later.
+Freeze LP Burning Status - Permanently disables the ability to change the burning status of LP tokens. Locks LP Burning status in current position. Can't be changed later.
+Send "Coin" - Allows to send a coin stored in a DAO account to a specific network. A coin is a blockchain coin, that is, ETH coin in the Ethereum network, BNB coin in the BSC network, etc. Then the voting will be called: Send ETH, Send BNB, etc.
+Send Token - Transfer any token from DAO's balance.
+Approve Token - Approve any token to a spender. This is useful when you interact with DeFi protocols.
+Add Permitted - Allows to use any smart contract as a module, and also allows the specified address to perform any operation without voting.
+Add Adapter - Allows to withdraw part of the funds from third-party smart contracts, if the LP Holder decides to leave the DAO.
+Change Quorum - Allows to change the decision entry threshold.
+Custom Transaction - Allows to create any custom transaction.

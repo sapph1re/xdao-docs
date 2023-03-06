@@ -1,0 +1,14 @@
+Glossary
+There are terms, abbreviations and definitions used in the XDAO documentation.
+Term - Definition
+Absolute majority voting - 50+1% of the votes must be reached to achieve a quorum.
+Assets Under Management (AUM) - All funds managed by a DAO.
+Consensus - A principle according to which any transaction, change of the DAO management rules or other actions allowed by the conditions of a particular DAO, is carried out only after creating a vote and reaching a quorum.
+Decentralized Autonomous Organization (DAO) - A form of organization where participants' activities are based on rules set in smart contracts, and any decisions are executed only when consensus has been reached.
+Governance Token (GT) - A governance or native token that allows its members to create and participate in votes. GT has no economic value, cannot be sent to another wallet like a regular token, and can only be created or sent as a result of voting in a DAO.
+Hybrid voting - Participants vote off-chain using a unique signature, while the execution of the voting results is done on-chain. This type of voting allows you to significantly reduce gas costs without compromising security.
+Liquidity Provider Token (LP) - An investment token or liquidity provider token. An ERC-20 standard token, backed by DAO assets and varying in price depending on the total issue of the LP and AUM of a DAO. When an LP token is burned, a holder receives a proportional share of the AUM of a DAO. The total supply of an LP token depends on its economic value.For example, if 10 LPs were issued and the project's AUM is $1,000, then the value of 1 LP is $100.
+Module - A special smart contract providing some additional function for a DAO.
+Off-chain voting - All participants' actions, including the voting result, do not interact with the blockchain. This type of voting is usually used for project community voting, as it does not entail the binding execution of a decision.
+On-chain voting - Every participant's vote is "recorded" on a blockchain, and the result of the vote is executed automatically after a quorum is reached. This type of voting is characterized by high gas costs.
+Quorum - The number of votes required for a decision to be executed.

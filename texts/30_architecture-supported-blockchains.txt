@@ -1,0 +1,4 @@
+Supported Blockchains
+Our flexible architecture allows to continuously add news EVM-Compatible blockchains.
+Currently we operate only on Ethereum, Polygon, Binance Smart Chain, HECO, Avalanche, Fantom, Celo, OEC, Metis, Aurora, Optimism, Boba, Moonbeam, Moonriver, Astar, Shiden, Fuse, XDC, BitTorrent, Oasis, Klaytn, Milkomeda, CubeChain, Ontology, Telos, Godwoken and CoinEx Network.
+Before you start your DAO you can also test our platform on Rinkeby.

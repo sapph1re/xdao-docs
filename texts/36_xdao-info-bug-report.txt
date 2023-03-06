@@ -1,0 +1,3 @@
+Bug Report
+XDAO is currently on Public Beta. It means that we continuously upgrading it and adding new features.
+If you find a bug or have a feature suggestion, please, create a ticket in Discord: https://discord.gg/xdaoapp

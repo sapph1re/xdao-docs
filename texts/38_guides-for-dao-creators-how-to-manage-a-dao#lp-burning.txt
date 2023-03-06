@@ -1,0 +1,37 @@
+How to Manage a DAO
+DAO members can control and manage a DAO. Any change implies a vote.
+After the successful DAO creation, it will be displayed a new submenu "My DAOs".
+Click to your DAO to see its Dashboard.
+Exploring DAO Page
+In the Dashboard, you can see current DAO settings such as quorum, number of DAO members and AUM. Click to "settings" in the top right corner. There you can change your description, avatar and add links to your organisation's social media. Let's have a closer look at tabs below.
+In "Balance" tab you can see your DAO's assets and transaction history.
+Hide Tokens
+Click on settings icon to hide unnecessary tokens (skam tokens, for example). It will not affect your DAO balance.
+LP Token
+In "LP Token" tab you can track your public and private offers, burn LP and track your Private Exits. You can also initialize a Launchpad.
+Voting
+All decisions in DAO are made through voting.
+In "voting" tab you can create a new voting or see the list of all votings created in your DAO.
+Members
+In this tab you can see list of your DAO members (GT holders) and list of LP holders. You can also add DAO members here, by minting GT.
+Features
+In "Features" tab you can see and change Configuration and Permitted List.
+Configuration
+In XDAO you can manage your LP and GT tokens.
+GT Minting
+This is how to add new members to the DAO. Since you can't simply transfer DAO GTs to someone, the only way to give a person the voting right is to mint GT tokens for her/him. Disabling and freezing GTs minting is blocking the current amount of GT in circulation forever. But you can still be able to add more people by moving GTs. In a very usual case there is no need to freeze minting.
+GT Burning
+This is how to leave a DAO or kick out another teammate. Since the only way to exit DAO is to burn GT tokens, disabling and freezing this function will disable the opportunity to burn GT tokens. But you can still be able to leave a DAO by moving GTsto someone else. In a very usual case there is no need to freeze GT burning.
+Be careful with Minting and Burning GTs. By disabling and freezing it's status you won't be able to change it afterwards. By clicking "Disable and Freeze", you will not be able to change this configuration afterwards.
+LP Minting
+LP Minting is an ability to create an investment offer. LP tokens are minted every time you create a public or private offer. Unlike GTs, the status of LP tokens can always be either changed or frozen depending on a DAO strategy . LP tokens aren't ordinary tokens that are issued by projects and are in circulating supply. The owner of the LP tokens claims a share from ALL the assets of the DAO. That is why we do NOT recommend to freeze the LP status but only change its status instead.
+If the LP token can be minted indefinitely, it means that the LP model is inflationary. If the LP token minting is frozen forever, then the LP token model is deflationary.
+LP Burning
+LP burning is an opportunity to exit DAO as an investor and take a share proportional to your LPs in return. Disabling this you DAO investors won't be able to get their funds back. That is why we strongly recommend to enable burning function and even freeze this rule. See the details of the specific voting by clicking on it.
+DAO Analytics
+You can find DAO Analytics in the "Balance" tab. On the Analytics page, you can see:
+ - DAO Members Shares. Who is running the DAO. See how many people are involved in the DAO decision making process;
+ - DAO Assets. The pie chart of assets currently held on the DAO treasury (we added both Covalent and DeBank sources);
+ - AUM History. It shows how the amount of the DAO's assets under management changes over time (currently information for the last month is available);
+ - Token History. It shows how the DAO treasury rebalances over time (currently information for the last month is available);
+ - LP Holders History. It shows how LP tokens were distributed over time (currently information for the last month is available).

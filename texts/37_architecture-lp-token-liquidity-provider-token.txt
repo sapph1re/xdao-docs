@@ -1,0 +1,25 @@
+LP Token (Liquidity Provider Token)
+What is LP Token
+LP token is ERC20 standard token.
+LP token role in DAO
+LP token has a special status in our DAO. It represents a financial interest in the organization. Any replenishment of the treasury through the DAO is best done by minting LP tokens through public or private offer.
+To understand it more easily, we will compare a DAO LP token with those provided on DEX exchanges.
+LP tokens are used to track individual contributions to the DAO treasury, as LP tokens held correspond proportionally to the share of liquidity in the DAO treasury.
+Here are a simple formula for the LP token price:
+DAO AUM / Circulating Supply of LP Tokens = Value of 1 LP Token
+Since LP tokens are heavily formula-bound, be very careful NOT to increase the liquidity providers' share by directly transferring funds to the DAO account without buying LPs.
+In terms of technical characteristics, LP tokens are not very different from other tokens in the same network. Like any other ERC20 token, these LP tokens can be transferred, exchanged, and also be paired with another token on DEX.
+But unlike LPs that are issued on an exchange, owning LP tokens in XDAO does NOT give liquidity providers full control over their liquidity. Since the money in the LPs are managed by only those who own the governance tokens (GTs). Nevertheless, you can burn all or part of your LP tokens. If the DAO doesn't make the burn LP feature disabled.
+The relationship between LP tokens and the proportional share of a DAO AUM (assets under management) is used most commonly in at least two cases:
+1. To determine the liquidity provider's share of this DAO.
+2. To determine how much liquidity is returned to liquidity providers from the DAO AUM after LPs decide to burn their LP tokens.
+3. To determine how much the liquidity provider should receive at the time of dividend distribution.
+DAO can make decisions on the further release of LP token to the exchange, can organize the stacking of LP token of its DAO. It is important for DAO participants to understand that the LP token is fully secured by the DAO treasury, until the token is traded on the exchange.
+LP token use case
+We reveal in detail how to use the LP token in our use cases. In general, LP tokens are needed to effectively raise funds for the DAO from DAO members or from external investors. Since LP tokens are heavily formula-linked, be very careful NOT to increase the proportion of investors who buy LPs by directly transferring funds to the DAO account without buying LPs.
+You can sell LP tokens through private sale, public sale, through launchpador selling tokens on an exchange.
+At the time when LP tokens are being sold at a private, public sale, or through the DAO Launchpad, it is forbidden to generate profit or contribute additional money through direct transfer to the DAO address. Because otherwise the shares will be diluted and some investors can get more money by burning LP tokens than was invested. Only after the fundraising is over and all private, public offers, and launchpad are closed, the DAO can begin the process of generating profits.
+It is forbidden to generate profit or contribute additional money through direct transfer to the DAO address. Because otherwise the shares will be diluted and investors can get more money by burning LP tokens than was invested.
+Does your DAO need an LP token?
+If the DAO is going to raise funds, it is always recommended to create an LP token. But always be careful and make sure to follow the formula: DAO AUM / Circulating Supply of LP Tokens = Value of 1 LP Token
+If the treasury management arrangements are different, you can use the DAO as a multisig wallet.
